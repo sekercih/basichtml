@@ -1,0 +1,73 @@
+*{
+ margin: 0px;
+ padding: 0px;
+
+}
+body{
+ background-repeat: no-repeat;
+ background-color: rgb(99, 98, 99);
+ background-image: url()
+  ;
+
+ 
+ background-position: center;
+ background-size: contain;
+ margin: auto;
+}
+#sayfa{
+ width: 1610px;
+ border-style: solid;
+ border-width: 1px;
+ min-height: 900px;
+}
+#banner{
+  width: 1600px;
+ border-style: none;
+ border-width: 1px;
+ height: 160px;
+ border-color: antiquewhite;
+ background-color: white
+
+}
+#logo{
+ width: 120px;
+ height: 120px;
+ background-color: white;
+ position: relative;
+ top: -px;
+ left: 20px;
+ float: left;
+ border-radius: 10px;
+}
+img{
+ 
+}
+
+#sosyal{
+ width: 250px;
+ height: 60px;
+position: relative;
+ 
+ float: right;
+ position: relative;
+ top:70px;
+ right:  20px;
+
+}
+
+#ikon{
+ float: right;
+ margin-left: 10px;
+ border-radius: 150px;
+ border-style: solid;
+ border-color: rebeccapurple;
+ 
+
+}
+#anamenu{
+ width:1600px ;
+ background-color: turquoise;
+ height: 200
+ ;
+ margin: auto;
+}
