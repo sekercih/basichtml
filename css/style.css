@@ -71,3 +71,7 @@ position: relative;
  ;
  margin: auto;
 }
+
+#anamenu ul li{
+  list-style-type: disc;
+}
